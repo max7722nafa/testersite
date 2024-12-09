@@ -57,7 +57,6 @@ html {
 
 body {
     overflow-x: hidden;
-    background: url(./media/token.webp) no-repeat;
     background-position: top center;
     background-size: cover
 }
@@ -2389,7 +2388,7 @@ footer .f9 {
 
 @media screen and (max-width:600px) {
     body {
-        background: url(./media/token_copy.webp)
+
     }
 
     .block_1 {
